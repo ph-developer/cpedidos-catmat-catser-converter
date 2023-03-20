@@ -1,0 +1,16 @@
+name: cpedidos_catmat_catser_converter
+description: Conversor do CATMAT/CATSER de CSV para JSON para uso no Controle de Pedidos da Prefeitura Municipal de Penápolis.
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  csv: ^5.0.1
+  args: ^2.4.0
+
+dev_dependencies:
+  flutterando_analysis: ^0.0.2
+  lints: ^2.0.0
+  test: ^1.21.0

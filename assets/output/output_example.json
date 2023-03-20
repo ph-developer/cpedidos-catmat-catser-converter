@@ -1,0 +1,12 @@
+{
+    "extraction_date": "__date__",
+    "groups": {
+        "__group_code__": "__group_description__"
+    },
+    "items": {
+        "__code__": [
+            "__group_code__",
+            "__description__"
+        ]
+    }
+}

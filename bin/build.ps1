@@ -1,0 +1,1 @@
+dart compile exe .\lib\main.dart -o .\dist\cpedidos_catmat_catser_converter.exe
