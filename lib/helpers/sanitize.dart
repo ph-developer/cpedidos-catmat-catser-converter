@@ -292,6 +292,9 @@ final replacements = {
   ' 0¿': ' 0°',
   '0¿,': '0°,',
   '0¿ ': '0° ',
+  ' N¿3': ' Nº3',
+  ' RESERVA¿TORIO ': ' RESERVATÓRIO ',
+  ' EPI¿S': " EPI'S",
   //* very specific
   'CONTROLE TEMPERATURA 4¿ A 10°': 'CONTROLE TEMPERATURA 4 A 10°',
   'SMALL RIFLE 7 ¿"': 'SMALL RIFLE 7 ½"',

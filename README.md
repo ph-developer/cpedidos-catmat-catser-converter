@@ -57,7 +57,7 @@ Both commands have same args, they are:
 
 <br>
 
-- In the folder 'assets' we have input and output converted files, extracted from https://www.gov.br/compras/pt-br/acesso-a-informacao/consulta-detalhada/planilha-catmat-catser. The last update of this files was in 09/01/2023.
+- In the folder 'assets' we have input and output converted files, extracted from https://www.gov.br/compras/pt-br/acesso-a-informacao/consulta-detalhada/planilha-catmat-catser. The last update of this files was in 30/03/2023.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
